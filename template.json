@@ -1,0 +1,198 @@
+{
+  "format": "motiongit.discovery/1",
+  "repositoryId": "867595",
+  "templateId": 587,
+  "owner": "motiongit",
+  "slug": "motiongit-promo-velocity",
+  "website": "https://motiongit.com/@motiongit/motiongit-promo-velocity",
+  "checkedAt": "2026-10-13",
+  "availability": "demo-only",
+  "title": {
+    "en": "Light and Dark Cuts · Product Promotion",
+    "zh": "明暗快切 · 产品宣传"
+  },
+  "summary": {
+    "en": "Show product features through fast light-and-dark cuts, bold type and interface demonstrations.",
+    "zh": "明暗画面快速切换，结合大字和界面展示突出产品功能，适合节奏鲜明的宣传片。"
+  },
+  "subtitle": {
+    "en": "Light and Dark Cuts · Product Promotion",
+    "zh": "明暗快切 · 产品宣传"
+  },
+  "category": {
+    "en": "product",
+    "zh": "product"
+  },
+  "ratio": "16:9",
+  "width": 1920,
+  "height": 1080,
+  "fps": 60,
+  "durationSeconds": 57,
+  "demo": {
+    "en": "https://media.openaicut.com/previews/587/draft-en-389d2163ab5f.mp4",
+    "zh": "https://motiongit.com/@motiongit/motiongit-promo-velocity?lang=zh",
+    "poster": "https://motiongit.com/media/covers/587/quality-zh-89ff4394136c.jpg"
+  },
+  "materials": [
+    {
+      "en": "A: text, up to 40 characters.",
+      "zh": "A：文字，不超过 40 个字符。",
+      "required": true
+    },
+    {
+      "en": "B: text, up to 44 characters.",
+      "zh": "B：文字，不超过 44 个字符。",
+      "required": true
+    },
+    {
+      "en": "A: text, up to 40 characters.",
+      "zh": "A：文字，不超过 40 个字符。",
+      "required": true
+    },
+    {
+      "en": "B: text, up to 44 characters.",
+      "zh": "B：文字，不超过 44 个字符。",
+      "required": true
+    },
+    {
+      "en": "A: text, up to 40 characters.",
+      "zh": "A：文字，不超过 40 个字符。",
+      "required": true
+    },
+    {
+      "en": "B: text, up to 44 characters.",
+      "zh": "B：文字，不超过 44 个字符。",
+      "required": true
+    },
+    {
+      "en": "A: text, up to 40 characters.",
+      "zh": "A：文字，不超过 40 个字符。",
+      "required": true
+    },
+    {
+      "en": "B: text, up to 44 characters.",
+      "zh": "B：文字，不超过 44 个字符。",
+      "required": true
+    },
+    {
+      "en": "A: text, up to 40 characters.",
+      "zh": "A：文字，不超过 40 个字符。",
+      "required": true
+    },
+    {
+      "en": "B: text, up to 44 characters.",
+      "zh": "B：文字，不超过 44 个字符。",
+      "required": true
+    },
+    {
+      "en": "A: text, up to 40 characters.",
+      "zh": "A：文字，不超过 40 个字符。",
+      "required": true
+    },
+    {
+      "en": "B: text, up to 44 characters.",
+      "zh": "B：文字，不超过 44 个字符。",
+      "required": true
+    },
+    {
+      "en": "A: text, up to 40 characters.",
+      "zh": "A：文字，不超过 40 个字符。",
+      "required": true
+    },
+    {
+      "en": "B: text, up to 44 characters.",
+      "zh": "B：文字，不超过 44 个字符。",
+      "required": true
+    },
+    {
+      "en": "A: text, up to 40 characters.",
+      "zh": "A：文字，不超过 40 个字符。",
+      "required": true
+    },
+    {
+      "en": "B: text, up to 44 characters.",
+      "zh": "B：文字，不超过 44 个字符。",
+      "required": true
+    },
+    {
+      "en": "A: text, up to 40 characters.",
+      "zh": "A：文字，不超过 40 个字符。",
+      "required": true
+    },
+    {
+      "en": "B: text, up to 44 characters.",
+      "zh": "B：文字，不超过 44 个字符。",
+      "required": true
+    },
+    {
+      "en": "A: text, up to 40 characters.",
+      "zh": "A：文字，不超过 40 个字符。",
+      "required": true
+    },
+    {
+      "en": "B: text, up to 44 characters.",
+      "zh": "B：文字，不超过 44 个字符。",
+      "required": true
+    },
+    {
+      "en": "A: text, up to 40 characters.",
+      "zh": "A：文字，不超过 40 个字符。",
+      "required": true
+    },
+    {
+      "en": "B: text, up to 44 characters.",
+      "zh": "B：文字，不超过 44 个字符。",
+      "required": true
+    },
+    {
+      "en": "A: text, up to 44 characters.",
+      "zh": "A：文字，不超过 44 个字符。",
+      "required": true
+    },
+    {
+      "en": "B: text, up to 36 characters.",
+      "zh": "B：文字，不超过 36 个字符。",
+      "required": true
+    }
+  ],
+  "dependencies": [
+    {
+      "en": "The package declares a Python and Node.js host. Check its dependency lock for supported versions and any additional rendering tools.",
+      "zh": "模板声明使用 Python 和 Node.js。具体工具与版本以下载包为准。"
+    },
+    {
+      "en": "Use the package dependency lock and setup/check instructions. Check existing tools first, install only missing requirements and verify a preview.",
+      "zh": "按下载包的依赖锁和 setup/check 说明检查已有工具，只补齐缺项，并验证预览。"
+    }
+  ],
+  "goodFor": {
+    "en": [
+      "Digital tools, reusable creative formats, feature explanations",
+      "Keyword, comparison, process, repeated output, network and conclusion scenes"
+    ],
+    "zh": [
+      "Digital tools, reusable creative formats, feature explanations",
+      "Keyword, comparison, process, repeated output, network and conclusion scenes"
+    ]
+  },
+  "boundaries": {
+    "en": [
+      "The documented output is 1920 × 1080, 60 fps; default demo duration is 57 seconds.",
+      "Use the actual package parameter bounds; extra materials do not automatically create extra scenes.",
+      "Talking heads or real product footage without source editing",
+      "Automatic portrait output, voiceover synchronization or arbitrary scene reordering",
+      "A strict two-claim-only or other-brand video without editing the fixed demo scenes and labels"
+    ],
+    "zh": [
+      "已声明输出为 1920 × 1080，60 fps；默认样片 57 秒。",
+      "按实际包的参数边界制作；增加素材不会自动增加场景。"
+    ]
+  },
+  "capabilities": [
+    {
+      "en": "Optional services require a live catalog, template slot and account check before they can be confirmed.",
+      "zh": "配套服务需核对官网实时能力、模板槽位和账号权限后才能确认。",
+      "status": "check-live"
+    }
+  ]
+}
