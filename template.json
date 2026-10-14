@@ -5,7 +5,7 @@
   "owner": "motiongit",
   "slug": "motiongit-promo-velocity",
   "website": "https://motiongit.com/@motiongit/motiongit-promo-velocity",
-  "checkedAt": "2026-10-13",
+  "checkedAt": "2026-10-14",
   "availability": "download-available",
   "title": {
     "en": "Light and Dark Cuts · Product Promotion",
@@ -179,9 +179,9 @@
     "en": [
       "The documented output is 1920 × 1080, 60 fps; default demo duration is 57 seconds.",
       "Use the actual package parameter bounds; extra materials do not automatically create extra scenes.",
-      "Talking heads or real product footage without source editing",
-      "Automatic portrait output, voiceover synchronization or arbitrary scene reordering",
-      "A strict two-claim-only or other-brand video without editing the fixed demo scenes and labels"
+      "Automatic portrait output, voiceover synchronization or arbitrary scene reordering.",
+      "Arbitrary short or different claim structures without checking the fixed 13-scene arrangement and remaining dynamic wording.",
+      "Automatic semantic reframing without checking the actual subject, crop and current footage."
     ],
     "zh": [
       "已声明输出为 1920 × 1080，60 fps；默认样片 57 秒。",
