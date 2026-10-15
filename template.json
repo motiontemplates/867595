@@ -5,6 +5,19 @@
   "owner": "motiongit",
   "slug": "motiongit-promo-velocity",
   "website": "https://motiongit.com/@motiongit/motiongit-promo-velocity",
+  "version": "2.5.0",
+  "technical": {
+    "en": [
+      "Declared runtime profile: html-canvas/1.",
+      "Editable inputs are mapped through the template parameter schema and preset to its existing animation project.",
+      "The declared timeline has a fixed duration; new content fits its existing scene order and timing."
+    ],
+    "zh": [
+      "声明的运行配置：html-canvas/1。",
+      "通过模板参数和预设，将本期文字、数据或素材映射到已有动画工程。",
+      "已声明时间轴为固定时长，本期内容按现有场景顺序和节奏适配。"
+    ]
+  },
   "checkedAt": "2026-10-14",
   "availability": "download-available",
   "title": {
@@ -35,124 +48,29 @@
   },
   "materials": [
     {
-      "en": "A: text, up to 40 characters.",
-      "zh": "A：文字，不超过 40 个字符。",
+      "en": "Current product images, screenshots or display materials supported by the selected media slots.",
+      "zh": "本期产品图片、截图或展示素材，按所选槽位支持的类型准备。",
+      "required": false
+    },
+    {
+      "en": "The current brand name, logo and applicable feature icons.",
+      "zh": "本期品牌名称、Logo，以及实际需要的功能图标。",
       "required": true
     },
     {
-      "en": "B: text, up to 44 characters.",
-      "zh": "B：文字，不超过 44 个字符。",
+      "en": "Your topic, script and facts to preserve.",
+      "zh": "本期主题、文稿与需要准确保留的信息。",
       "required": true
     },
     {
-      "en": "A: text, up to 40 characters.",
-      "zh": "A：文字，不超过 40 个字符。",
-      "required": true
+      "en": "A licensed music track or your preference for music in this production.",
+      "zh": "本期已授权配乐，或本期是否需要配乐的偏好。",
+      "required": false
     },
     {
-      "en": "B: text, up to 44 characters.",
-      "zh": "B：文字，不超过 44 个字符。",
-      "required": true
-    },
-    {
-      "en": "A: text, up to 40 characters.",
-      "zh": "A：文字，不超过 40 个字符。",
-      "required": true
-    },
-    {
-      "en": "B: text, up to 44 characters.",
-      "zh": "B：文字，不超过 44 个字符。",
-      "required": true
-    },
-    {
-      "en": "A: text, up to 40 characters.",
-      "zh": "A：文字，不超过 40 个字符。",
-      "required": true
-    },
-    {
-      "en": "B: text, up to 44 characters.",
-      "zh": "B：文字，不超过 44 个字符。",
-      "required": true
-    },
-    {
-      "en": "A: text, up to 40 characters.",
-      "zh": "A：文字，不超过 40 个字符。",
-      "required": true
-    },
-    {
-      "en": "B: text, up to 44 characters.",
-      "zh": "B：文字，不超过 44 个字符。",
-      "required": true
-    },
-    {
-      "en": "A: text, up to 40 characters.",
-      "zh": "A：文字，不超过 40 个字符。",
-      "required": true
-    },
-    {
-      "en": "B: text, up to 44 characters.",
-      "zh": "B：文字，不超过 44 个字符。",
-      "required": true
-    },
-    {
-      "en": "A: text, up to 40 characters.",
-      "zh": "A：文字，不超过 40 个字符。",
-      "required": true
-    },
-    {
-      "en": "B: text, up to 44 characters.",
-      "zh": "B：文字，不超过 44 个字符。",
-      "required": true
-    },
-    {
-      "en": "A: text, up to 40 characters.",
-      "zh": "A：文字，不超过 40 个字符。",
-      "required": true
-    },
-    {
-      "en": "B: text, up to 44 characters.",
-      "zh": "B：文字，不超过 44 个字符。",
-      "required": true
-    },
-    {
-      "en": "A: text, up to 40 characters.",
-      "zh": "A：文字，不超过 40 个字符。",
-      "required": true
-    },
-    {
-      "en": "B: text, up to 44 characters.",
-      "zh": "B：文字，不超过 44 个字符。",
-      "required": true
-    },
-    {
-      "en": "A: text, up to 40 characters.",
-      "zh": "A：文字，不超过 40 个字符。",
-      "required": true
-    },
-    {
-      "en": "B: text, up to 44 characters.",
-      "zh": "B：文字，不超过 44 个字符。",
-      "required": true
-    },
-    {
-      "en": "A: text, up to 40 characters.",
-      "zh": "A：文字，不超过 40 个字符。",
-      "required": true
-    },
-    {
-      "en": "B: text, up to 44 characters.",
-      "zh": "B：文字，不超过 44 个字符。",
-      "required": true
-    },
-    {
-      "en": "A: text, up to 44 characters.",
-      "zh": "A：文字，不超过 44 个字符。",
-      "required": true
-    },
-    {
-      "en": "B: text, up to 36 characters.",
-      "zh": "B：文字，不超过 36 个字符。",
-      "required": true
+      "en": "The current voice recording or your narration preference for this production.",
+      "zh": "本期配音文件，或是否需要配音的安排。",
+      "required": false
     }
   ],
   "dependencies": [
@@ -177,14 +95,14 @@
   },
   "boundaries": {
     "en": [
-      "The documented output is 1920 × 1080, 60 fps; default demo duration is 57 seconds.",
+      "The documented output is 1920 × 1080, 60 fps. The public demo is 57 seconds.",
       "Use the actual package parameter bounds; extra materials do not automatically create extra scenes.",
       "Automatic portrait output, voiceover synchronization or arbitrary scene reordering.",
       "Arbitrary short or different claim structures without checking the fixed 13-scene arrangement and remaining dynamic wording.",
       "Automatic semantic reframing without checking the actual subject, crop and current footage."
     ],
     "zh": [
-      "已声明输出为 1920 × 1080，60 fps；默认样片 57 秒。",
+      "已声明输出为 1920 × 1080，60 fps；公开样片 57 秒。",
       "按实际包的参数边界制作；增加素材不会自动增加场景。"
     ]
   },
