@@ -4,7 +4,7 @@
 
 Show product features through fast light-and-dark cuts, bold type and interface demonstrations.
 
-**16:9 · 1920 × 1080 · 60 fps · v2.5.5** · [@motiongit](https://motiongit.com/@motiongit) · [简体中文](README.zh-CN.md)
+**16:9 · 1920 × 1080 · 60 fps · v2.6.0** · [@motiongit](https://motiongit.com/@motiongit) · [简体中文](README.zh-CN.md)
 
 **[Template details, full .motion & demo](https://motiongit.com/@motiongit/motiongit-promo-velocity)**
 https://motiongit.com/@motiongit/motiongit-promo-velocity

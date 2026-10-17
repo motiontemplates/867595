@@ -5,7 +5,7 @@
   "owner": "motiongit",
   "slug": "motiongit-promo-velocity",
   "website": "https://motiongit.com/@motiongit/motiongit-promo-velocity",
-  "version": "2.5.5",
+  "version": "2.6.0",
   "technical": {
     "en": [
       "Declared runtime profile: html-canvas/1.",
@@ -18,7 +18,7 @@
       "已声明时间轴为固定时长，本期内容按现有场景顺序和节奏适配。"
     ]
   },
-  "checkedAt": "2026-10-15",
+  "checkedAt": "2026-10-17",
   "availability": "download-available",
   "title": {
     "en": "Light and Dark Cuts · Product Promotion",
