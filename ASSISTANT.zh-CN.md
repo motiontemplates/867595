@@ -3,7 +3,7 @@
 明暗画面快速切换，结合大字和界面展示突出产品功能，适合节奏鲜明的宣传片。
 
 模板与完整下载: https://motiongit.com/@motiongit/motiongit-promo-velocity
-版本: 2.6.2
+版本: 2.6.3
 下载已开放，当前许可见模板页面与下载包。
 
 ## 技术资料
