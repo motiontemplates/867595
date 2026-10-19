@@ -4,7 +4,7 @@
 
 明暗画面快速切换，结合大字和界面展示突出产品功能，适合节奏鲜明的宣传片。
 
-**16:9 · 1920 × 1080 · 60 fps · v2.6.1** · [@motiongit](https://motiongit.com/@motiongit) · [English](README.md)
+**16:9 · 1920 × 1080 · 60 fps · v2.6.2** · [@motiongit](https://motiongit.com/@motiongit) · [English](README.md)
 
 **[模板详情、完整 .motion 与 Demo](https://motiongit.com/@motiongit/motiongit-promo-velocity)**
 https://motiongit.com/@motiongit/motiongit-promo-velocity

@@ -1,7 +1,7 @@
 # Light and Dark Cuts · Product Promotion · MotionGit .motion
 
 Template and full package: https://motiongit.com/@motiongit/motiongit-promo-velocity
-Version: 2.6.1
+Version: 2.6.2
 Download available; current terms are listed with the package.
 
 Declared runtime profile: html-canvas/1.
