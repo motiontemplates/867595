@@ -3,8 +3,8 @@
 Show product features through fast light-and-dark cuts, bold type and interface demonstrations.
 
 Template & full download: https://motiongit.com/@motiongit/motiongit-promo-velocity
-Version: 2.6.6-alpha.1
-Download available; current terms are listed with the package.
+Version: 2.6.6-alpha.2
+Demo available. Check the official page for current download availability.
 
 ## Technical reference
 

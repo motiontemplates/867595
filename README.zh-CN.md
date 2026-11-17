@@ -4,14 +4,14 @@
 
 明暗画面快速切换，结合大字和界面展示突出产品功能，适合节奏鲜明的宣传片。
 
-**16:9 · 1920 × 1080 · 60 fps · v2.6.6-alpha.1** · [@motiongit](https://motiongit.com/@motiongit) · [English](README.md)
+**16:9 · 1920 × 1080 · 60 fps · v2.6.6-alpha.2** · [@motiongit](https://motiongit.com/@motiongit) · [English](README.md)
 
 Motion 模板现已接入背景音乐、贴纸、图片和视频等素材接口，并提供免费背景音乐及免费素材检索。升级版模板仍然 **100% 免费开源**。请从下方 MotionGit 官网下载升级版，官网按账号提供接口访问，防止批量请求滥用。素材接口的免费范围以官网说明为准。
 
 **[官网下载 .motion](https://motiongit.com/@motiongit/motiongit-promo-velocity)**
 https://motiongit.com/@motiongit/motiongit-promo-velocity
 
-下载已开放，当前许可见模板页面与下载包。
+Demo 已公开，下载开放状态以官网为准。
 
 ## Demo
 
